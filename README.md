@@ -1,2 +1,2 @@
 # x
-x can be anyting
+x can be anything
