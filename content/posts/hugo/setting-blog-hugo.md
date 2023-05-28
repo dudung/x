@@ -1,6 +1,6 @@
 ---
 title: "Setting a blog with Hugo (again)"
-date: 2023-05-28T17:20:00+07:00
+date: 2023-05-27T18:30:00+07:00
 authors: ['Sparisoma Viridi']
 tags: ['blog', 'hugo', 'download']
 draft: false
@@ -11,7 +11,7 @@ Several steps are required to set up a blog with Hugo in Windows. In general the
 
 
 ## download
-Latest version is [v0.112.3](https://github.com/gohugoio/hugo/releases/tag/v0.112.3) which is released four days ago by [bep](https://github.com/bep). The filename `hugo_extended_0.112.3_windows-amd64.zip` has size about 18.6 MB.
+Latest version is [v0.112.3](https://github.com/gohugoio/hugo/releases/tag/v0.112.3) which is released three days ago by [bep](https://github.com/bep). The filename `hugo_extended_0.112.3_windows-amd64.zip` has size about 18.6 MB.
 
 
 ## install
@@ -24,7 +24,7 @@ Latest version is [v0.112.3](https://github.com/gohugoio/hugo/releases/tag/v0.11
   ```
 
 ## repository
-+ Create a GitHub reposity, which is https://github.com/dudung/x in this case.
++ Create a GitHub repository, which is https://github.com/dudung/x in this case.
 + Clone it.
   ```shell
   $ git clone https://github.com/dudung/x
@@ -89,7 +89,24 @@ theme = 'hugo-coder'
 It is me, @6unpnp.
 ```
 
-`static/img/avatar.svg`
+`static/img/avatar.svg` &rightarrow; [avatar.svg](https://github.com/dudung/x/blob/main/static/img/avatar.svg)
+
+
+## modify files
+Modify `layouts/partials/footer.html` from
+```
+{{ i18n "powered_by" }}
+<a href="https://gohugo.io/">Hugo</a> &
+<a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+```
+to
+```
+{{ i18n "powered_by" }}
+<a href="https://gohugo.io/">Hugo</a> &
+<a href="https://github.com/luizdepra/hugo-coder/">Coder</a> &
+<a href="https://iconscout.com/contributors/dmitriy-bondarchuk">IconScout</a>.
+```
+where the result is foother in this page.
 
 
 ## start hugo
@@ -118,22 +135,6 @@ Running in Fast Render Mode. For full rebuilds on change: hugo server --disableF
 Web Server is available at http://localhost:1313/x/ (bind address 127.0.0.1)
 Press Ctrl+C to stop
 ```
-
-## modify files
-Modify `layouts/partials/footer.html` from
-```
-{{ i18n "powered_by" }}
-<a href="https://gohugo.io/">Hugo</a> &
-<a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
-```
-to
-```
-{{ i18n "powered_by" }}
-<a href="https://gohugo.io/">Hugo</a> &
-<a href="https://github.com/luizdepra/hugo-coder/">Coder</a> &
-<a href="https://iconscout.com/contributors/dmitriy-bondarchuk">IconScout</a>.
-```
-where the result is foother in this page.
 
 
 ## refs
