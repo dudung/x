@@ -2,7 +2,7 @@
 title: "Setting a blog with Hugo (again)"
 date: 2023-05-27T18:30:00+07:00
 authors: ['Sparisoma Viridi']
-tags: ['blog', 'hugo', 'download']
+tags: ['x', 'hugo', 'go']
 draft: false
 math: false
 url: "0000"
