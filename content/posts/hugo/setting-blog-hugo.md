@@ -1,6 +1,6 @@
 ---
 title: "Setting a blog with Hugo (again)"
-date: 2023-05-28T17:17:00+07:00
+date: 2023-05-28T17:20:00+07:00
 authors: ['Sparisoma Viridi']
 tags: ['blog', 'hugo', 'download']
 draft: false
@@ -11,7 +11,7 @@ Several steps are required to set up a blog with Hugo in Windows. In general the
 
 
 ## download
-Latest version is [v0.112.3](https://github.com/gohugoio/hugo/releases/tag/v0.112.3) which is released three days ago by [bep](https://github.com/bep). The filename `hugo_extended_0.112.3_windows-amd64.zip` has size about 18.6 MB.
+Latest version is [v0.112.3](https://github.com/gohugoio/hugo/releases/tag/v0.112.3) which is released four days ago by [bep](https://github.com/bep). The filename `hugo_extended_0.112.3_windows-amd64.zip` has size about 18.6 MB.
 
 
 ## install
