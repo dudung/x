@@ -233,16 +233,27 @@ weight = 3
 url = "cites/"
 
 [[languages.en.menu.main]]
-name = "Notes"
+name = "Bites"
 weight = 4
+url = "bites/"
+
+
+[[languages.en.menu.main]]
+name = "Ideas"
+weight = 5
+url = "ideas/"
+
+[[languages.en.menu.main]]
+name = "Notes"
+weight = 6
 url = "notes/"
 
 [[languages.en.menu.main]]
 name = "Posts"
-weight = 5
+weight = 7
 url = "posts/"
 
 [[languages.en.menu.main]]
 name = "Works"
-weight = 6
+weight = 8
 url = "works/"
