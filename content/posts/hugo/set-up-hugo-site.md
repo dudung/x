@@ -1,5 +1,5 @@
 ---
-title: "Setting a blog with Hugo (again)"
+title: "Setup a Hugo site (again)"
 date: 2023-05-27T18:30:00+07:00
 authors: ['Sparisoma Viridi']
 tags: ['x', 'hugo', 'go']
@@ -7,7 +7,7 @@ draft: false
 math: false
 url: "0000"
 ---
-Several steps are required to set up a blog with Hugo in Windows. In general the steps includes download and install Hugo, create and clone repository in GitHub, make a new site with Hugo, add theme, tune configuration, post article, and push changes to GitHub.
+Several steps are required to set up a Hugo site in Windows. In general the steps includes download and install Hugo, create and clone repository in GitHub, make a new site with Hugo, add theme, tune configuration, post article, and push changes to GitHub.
 
 
 ## download
