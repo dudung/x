@@ -35,3 +35,10 @@ Terdapat arahan secara umum dan khusus yang disampaikan sebagai pengantar dari d
 > Kaitan antara workshop, credit earning, dan program bergelar.
 + Program PS4 ini direkomendasikan untuk dibuka mengingat kendala kehadiran (bauran) dan dapat mendukung kualitas pendidikan sains di Indonesia.
 > Perlu dibuat klaster bila peserta berasal dari tempat berzona waktu berbeda di Indonesia.
+
+
+## to-do
++ Rencana workshop dan kaitannya dengan matakuliah tertentu.
++ Perhitungan jumlah jam dan pembagiannya bila terdapat multiple workshop.
++ Informasi di awal workshop tentang kaitannya dengan kredit earning, dan perkuliahan saat mulai mengambil program magister terkait.
++ Keenam aspek kelebihan program multidisiplin ini dan relasinya dengan implementasi dan ketercapaiannya setelah beberapa kurun waktu pelaksanaan program.
