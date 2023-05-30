@@ -1,5 +1,5 @@
 ---
-title: "Meetings on ML for SC"
+title: "ml for solids"
 date: 2023-05-30T20:18:00+07:00
 authors: ['Sparisoma Viridi']
 tags: ['ml', 'meetings']

@@ -1,8 +1,8 @@
 ---
-title: "Meetings on PCM"
+title: "nf on pcm"
 date: 2023-05-30T20:18:00+07:00
 authors: ['Sparisoma Viridi']
-tags: ['pcm', 'meetings']
+tags: ['pcm', 'nf', 'meetings']
 draft: false
 math: false
 url: "0006"
