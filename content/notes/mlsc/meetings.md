@@ -2,7 +2,7 @@
 title: "Meetings on ML for SC"
 date: 2023-05-30T20:18:00+07:00
 authors: ['Sparisoma Viridi']
-tags: ['pcm', 'meetings']
+tags: ['ml', 'meetings']
 draft: false
 math: false
 url: "0007"
