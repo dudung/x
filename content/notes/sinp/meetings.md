@@ -10,7 +10,7 @@ url: "0008"
 
 ## 31-wed
 + Visit [FiNder U-CoE](https://goo.gl/maps/Pfnmtogx8xp2pKrP6) at Universitas Padjadjaran, Sumedang. :heavy_check_mark:
-+ Obtain reading materials, e.g. as follow.
++ Obtain reading materials, e.g. [y7ews](https://osf.io/y7ews/), as follow.
   + Forcaud et al. (2008), doi [10.1093/aob/mcn050](https://doi.org/10.1093/aob/mcn050).
   + Garcia-Rodriguez at al. (2022), doi [10.3390/app12115537](https://doi.org/10.3390/app12115537).
   + Hu et al. (2021), doi [10.1002/ecs2.3678](https://doi.org/10.1002/ecs2.3678).
