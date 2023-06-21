@@ -5,3 +5,6 @@ wpsh.lnk
 # folders
 resources
 public
+
+# token
+token.txt
