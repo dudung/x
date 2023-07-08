@@ -5,6 +5,6 @@ authors: ['Sparisoma Viridi']
 tags: ['Hugo', 'Medium', 'Import']
 draft: false
 math: false
-url: "0010"
+url: "0010.html"
 ---
 This is a example of Hugo post that is imported to Medium story.
